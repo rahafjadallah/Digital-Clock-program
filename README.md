@@ -2,10 +2,11 @@
 
 ## 🌐 Live Demo
 [Click here to try the project]
-()
+(https://rahafjadallah.github.io/Digital-Clock-program-/
+)
 ## 📷 Screenshot
 [Digital Clock Screenshot]
-()
+(<img width="1366" height="645" alt="Digital Clock program 🕐" src="https://github.com/user-attachments/assets/8093c358-6ca0-4412-941b-fa17b4ff33d9" />)
 
 ## 📌 About The Project
 
